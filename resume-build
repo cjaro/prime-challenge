@@ -1,0 +1,70 @@
+<html>
+	<head>
+		<title> Catherine Jarocki </title>
+		<link type="text/css" rel="stylesheet" href="main.css"/>
+	</head>
+
+	<body>
+  
+		<div class = "title">
+			<div class = "name">
+			<h1> Catherine Jarocki </h1>
+				<ul>
+					<li>13570 Technology Drive #2220 </li>
+					<li>Eden Prairie, MN 55344</li>
+					<li>218.348.0366</li>
+					<li>cjarocki@gmail.com</li>
+			</div>
+		</div>
+
+		<div class = "Education">
+				<h1>Education</h1>
+			<div class = "csb">
+				<h3>Bachelor of Arts – English Literature & LAnguage Major, Biology Minor</h3>
+				<h4>College of Saint Benedict, Saint Joseph, Minnesota</h4>
+				<h4>August 2012 – May 2016</h4>
+			</div>
+			<div class = "umd">
+				<h3>General & Organic Chemistry, Statistics (Non-Degree)</h3>
+				<h4>University of Minnesota - Duluth, Duluth, Minnesota</h4>
+				<h4>2014-2015</h4>
+			</div>
+		</div>
+
+		<div class = "Experience">
+			<div class = "csbwc">
+				<h1>Professional Experience</h3>
+				<h3>PEer Writing & Editing Tutor</h3>
+				<h4>College of Saint Benedict and Saint John's University Writing Centers</h4>
+				<h4>August 2015 - May 2016</h4>
+				<ul>
+					<li>Conducted computer, phone, and network support in a helpdesk environment.</li>
+					<li>Conducted computer and phone inventory and upgrade projects</li>
+					<li>Assisted with server expansion and maintenence</li>
+				</ul>
+			</div>
+			<div class = "ILL">
+				<h3>Interlibrary Loan Assistant</h3>
+				<h4>Saint John's University Alcuin Library</h4>
+				<h4>August 2013 - May 2015 </h4>
+				<ul>
+					<li>First point of contact for clients requesting services.</li>
+					<li>Troubleshot computer and smartphone issues, determining the cause of the problem and diagnosing repairs</li>
+					<li>Repaired devices brought in for service while keeping logs of processes</li>
+					<li>Supported other departments, such as customer service, computer sales, and mobile activation on an as-needed basis</li>
+				</ul>
+			</div>
+			<div class = "Pam's Hallmark Cards">
+				<h3>Sales Associate</h3>
+				<h4>Pam's Hallmark, Duluth, Minnesota</h4>
+				<h4> July 2010 - July 2015</h4>
+				<ul>
+					<li>Managed event logistics for a large business training event</li>
+					<li>Created documents for gathering pertinent client information, collected, collected and organized data in spreadsheets</li>
+					<li>Organized and tracked receipts to prepare monthly expense reports</li>
+				</ul>
+			</div>
+		</div>
+
+	</body>
+</html>
